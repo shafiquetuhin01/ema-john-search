@@ -1,0 +1,10 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+}
+.cart .order-summary{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
